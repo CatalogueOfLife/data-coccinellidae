@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/CatalogueOfLife/coldp/master/metadata.json
 
-title: BioLib Coccinellidae
+title: Wikipedia Coccinellidae
 alias: ladybird
 description: | 
   Taxonomy of the Coccinellidae ladybird beetle family.
